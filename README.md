@@ -13,8 +13,8 @@ This repository contains code and datasets for reproducing the results from our 
   - `/Training_Prediction_DOS.ipynb` — Train and prediction by the neural network model on DFT data
   - `/PostProcessing_DOS_map.ipynb` — Prediction from the trained model
 - **2 Dataset Files**:
-  - `data/training_data.csv` — Training dataset (strain maps + band gap from DFT)
-  - `data/test_data.csv` — Test dataset for validation
+  - `/train_dos.csv` — Training dataset (DFT calculated DOS)
+  - `/raman_strain.csv` — Strain map for prediction (for an example)
 - **Dependencies**: `requirements.txt` — Python packages needed
 
 ## How to Download All Files
