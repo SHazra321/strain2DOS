@@ -94,10 +94,10 @@ After running the notebooks, you should see:
 | GPU | Optional (for faster training) |
 
 ## Dependencies
-tensorflow==1.14.0
-keras>=2.2.4
-numpy>=1.21.0
-pandas>=1.3.0
-matplotlib>=3.4.0
-scikit-learn>=0.24.0
-jupyter>=1.0.0
+- tensorflow==1.14.0
+- keras>=2.2.4
+- numpy>=1.21.0
+- pandas>=1.3.0
+- matplotlib>=3.4.0
+- scikit-learn>=0.24.0
+- jupyter>=1.0.0
