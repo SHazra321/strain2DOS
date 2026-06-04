@@ -47,7 +47,7 @@ python --version
 
 ### Step 2: Install Required Packages
 
-Open a terminal/command prompt in the extracted folder and run:
+Open a terminal/command prompt in the extracted folder, create an virtual environment and run:
 
 ```bash
 pip install -r requirements.txt
@@ -69,18 +69,18 @@ This will open Jupyter in your web browser. Navigate to the `notebooks/` folder 
 
 ## Running the Code
 
-1. **Open `train_model.ipynb`**
+1. **Open `Training_Prediction_DOS.ipynb`**
 2. Click **`Kernel` → `Restart & Run All`** (or press `Ctrl+Shift+Enter`)
 3. Wait for training to complete (approximately 10–30 minutes depending on your system)
-4. **Open `evaluate_model.ipynb`**
-5. Run all cells to see test results and validation plots
+4. **Open `Training_Prediction_DOS.ipynb`**
+5. Run all cells to see test results (Conduction band, Valance band edge, and bandgap map)
 
 ## Expected Output
 
 After running the notebooks, you should see:
 
-- Training loss curves
-- Band gap prediction plots
+- Training steps after each of the epoch
+- P
 - Spatial band gap reconstruction maps
 - Comparison with experimental PL data
 
