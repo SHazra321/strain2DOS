@@ -1,7 +1,6 @@
 # Machine Learning Assisted Reconstruction of Local Electronic Structure of Non-Uniformly Strained MoS2
-# Requirements for TensorFlow 1.14.0
 
-# Core TensorFlow (your installed version)
+# Core TensorFlow
 tensorflow==1.14.0
 
 # Data processing and manipulation
