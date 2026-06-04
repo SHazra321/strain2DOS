@@ -29,10 +29,10 @@ This repository contains code and datasets for reproducing the results from our 
 
 Click each file below to download:
 
-- [train_model.ipynb](notebooks/train_model.ipynb)
-- [evaluate_model.ipynb](notebooks/evaluate_model.ipynb)
-- [training_data.csv](data/training_data.csv)
-- [test_data.csv](data/test_data.csv)
+- [Training_Prediction_DOS.ipynb](/Training_Prediction_DOS.ipynb)
+- [PostProcessing_DOS_map.ipynb](/PostProcessing_DOS_map.ipynb)
+- [train_dos.csv](/train_dos.csv)
+- [raman_strain.csv](/raman_strain.csv)
 - [requirements.txt](requirements.txt)
 
 ## Setup Instructions
