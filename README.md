@@ -80,9 +80,9 @@ This will open Jupyter in your web browser. Navigate to the `notebooks/` folder 
 After running the notebooks, you should see:
 
 - Training steps after each of the epoch
-- P
-- Spatial band gap reconstruction maps
-- Comparison with experimental PL data
+- Prediction map will be stored in a output file, named "dos_pred.csv"
+- Predicted DOS for a given strain value will be stored in file, name "single_dos_pred.csv"
+- Spatial band edges, and bandgap reconstruction maps will be visible in the postprocessing notebook
 
 ## System Requirements
 
