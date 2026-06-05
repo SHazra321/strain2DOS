@@ -94,7 +94,7 @@ After running the notebooks, you should see:
 | GPU | Optional (for faster training) |
 
 ## Dependencies
-- tensorflow==1.14.0
+- tensorflow>=1.14.0
 - keras>=2.2.4
 - numpy>=1.21.0
 - pandas>=1.3.0
