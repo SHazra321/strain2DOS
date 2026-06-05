@@ -101,3 +101,17 @@ After running the notebooks, you should see:
 - matplotlib>=3.4.0
 - scikit-learn>=0.24.0
 - jupyter>=1.0.0
+
+## Citation
+If you use this code or data in your research, please cite our paper:
+
+```bash
+Hazra, Soumymadip et al. "Machine Learning Assisted Reconstruction of Local Electronic Structure of Non-Uniformly Strained MoS2." arXiv preprint arXiv:2603.29298 (2026). doi: 10.48550/arXiv.2603.29298
+```
+
+## Contact
+
+For questions or issues, please open an issue on GitHub or contact:  
+**Soumymadip Hazra** — [soumyadip22@iisertvm.ac.in](mailto:soumyadip22@iisertvm.ac.in)
+
+---
